@@ -1,38 +1,129 @@
-# 👋 Hi, I'm Tirth Bhanderi
+# Hi there, I'm Tirth Bhanderi! 👋
 
-I'm an **AI & ML Student** and **Android & Flutter Developer** passionate about building intelligent mobile applications. I love exploring the intersection of machine learning and mobile development to create seamless user experiences.
+## 🚀 AI Software Engineer | SDE
 
-### 👨‍💻 About Me
-- 🎓 Currently studying **Artificial Intelligence & Machine Learning**
-- 📱 Building apps with **Flutter** and native **Android** (Kotlin/Java)
-- 🤖 Exploring **Machine Learning** models and integrating them into mobile apps
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technology/Framework you're learning]
-- 👯 I’m looking to collaborate on **AI/ML or Mobile App projects**
-- 💬 Ask me about **Flutter, Android, or AI integration**
-- 📫 How to reach me: [Your Email]
-
-### 🛠️ Tech Stack
-- **Languages**: Python, Dart, Kotlin, Java, [Others]
-- **Mobile Dev**: Flutter, Android SDK, Jetpack Compose
-- **AI/ML**: TensorFlow Lite, [Other ML libraries you use]
-- **Tools**: Git, Firebase, VS Code, Android Studio
-
-### 📌 Pinned Projects
-Here are some of my notable works (you can replace these with your actual projects):
-
-- **[Project Name 1]** - Brief description of what it does and the tech used.
-- **[Project Name 2]** - Brief description of what it does and the tech used.
-- **[Project Name 3]** - Brief description of what it does and the tech used.
-
-### 📈 GitHub Stats
-[![Tirth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
-
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge)](https://tirth-portfolio-v2.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_HANDLE)
+I'm an AI Software Engineer and proficient Android & Flutter Developer with experience in Java, Python, and Spring Boot development. Currently pursuing my Bachelor's in Artificial Intelligence and Machine Learning at CHARUSAT, Gujarat, India.
 
 ---
 
-*This README was generated with information from my [portfolio website](https://tirth-portfolio-v2.vercel.app).*
+## 📍 About Me
+
+- 🎓 Bachelor of Technology in AI & ML at CHARUSAT (Expected 2028)
+- 💼 Android Developer Intern at 9Brainz (December 2024 - April 2025)
+- 📱 Specialized in mobile development with Flutter and Android SDK
+- 🤖 Passionate about AI/ML and building intelligent applications
+- 📫 Reach me at: bhanderitirth940@gmail.com
+- 📍 Based in Rajkot, Gujarat, India
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases & Backend
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Other
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Concepts:** REST API • Microservices • RAG (LLMs) • Machine Learning • Deep Learning
+
+---
+
+## 🔥 Featured Projects
+
+### 📱 Openly Social Media App
+https://github.com/tirthbhanderi2006/openly
+
+- ✨ Real-time video calling and chat
+- 🔐 Firebase Authentication & Cloud Storage
+- 📝 Profile editing & bookmarking
+- 🌐 Content discovery & sharing
+
+**Tech Stack:** Flutter • Firebase • Firestore • Cloud Storage • Real-time Database
+
+---
+
+### 🛣️ CivicConnect
+
+- 🔒 Secure authentication
+- 📍 Pothole reporting system
+- 🤖 YOLOv5 AI image analysis
+- 📊 Admin dashboard
+- 🗺️ Interactive map integration
+
+**Tech Stack:** Flutter • Express • Next.js • PostgreSQL • YOLOv5 • Cloudinary
+
+---
+
+### 🐄 Krushi-Netra
+
+- 📶 Offline cattle breed classification
+- 🐮 Supports 12 Indian breeds
+- 💡 Lightweight for low-end devices
+- 📸 Works with low-quality images
+
+**Tech Stack:** Android (Java) • TensorFlow • CNN • MobileNet
+
+---
+
+## 💼 Professional Experience
+
+### Android Developer Intern @ 9Brainz
+**December 2024 - April 2025 | Rajkot, Gujarat, India**
+
+- Developed Openly social media application
+- Implemented real-time video & chat
+- Integrated Firebase services
+- Built profile & engagement features
+
+---
+
+## 🎓 Education
+
+### Bachelor of Technology in AI & ML
+CHARUSAT, Gujarat, India • Expected 2028
+
+### Diploma in Computer Engineering
+RK University, Gujarat, India • GPA: 9.63
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirthbhanderi2006&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthbhanderi2006&layout=compact&theme=radical&cache_seconds=1800)
+
+---
+
+## 🤝 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/tirth-bhanderi-345763289/)
+|
+[GitHub](https://github.com/tirthbhanderi2006)
+|
+[Instagram](https://www.instagram.com/tirth_bhanderi_7_/)
+|
+[Email](mailto:bhanderitirth940@gmail.com)
+
+---
+
+⭐️ From https://github.com/tirthbhanderi2006
