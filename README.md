@@ -1,17 +1,22 @@
 # Hi there, I'm Tirth Bhanderi! 👋
 
-## 🚀 AI Software Engineer | SDE
+## 🚀 AI Software Engineer | Gamer | SDE
 
-I'm an AI Software Engineer and proficient Android & Flutter Developer with experience in Java, Python, and Spring Boot development. Currently pursuing my Bachelor's in Artificial Intelligence and Machine Learning at CHARUSAT, Gujarat, India.
+I'm an AI Software Engineer, passionate coder, and dedicated gamer who loves building intelligent systems and immersive digital experiences.  
+I specialize in Android and Flutter development with strong experience in Java, Python, and Spring Boot.  
+Currently pursuing my Bachelor's in Artificial Intelligence and Machine Learning at CHARUSAT, Gujarat, India.
 
 ---
 
 ## 📍 About Me
 
-- 🎓 Bachelor of Technology in AI & ML at CHARUSAT (Expected 2028)
-- 💼 Android Developer Intern at 9Brainz (December 2024 - April 2025)
-- 📱 Specialized in mobile development with Flutter and Android SDK
-- 🤖 Passionate about AI/ML and building intelligent applications
+- 🎓 B.Tech in AI & ML at CHARUSAT (Expected 2028)
+- 💼 Former Android Developer Intern at 9Brainz
+- 📱 Mobile App Developer (Flutter & Android SDK)
+- 🤖 AI/ML Enthusiast building real-world intelligent apps
+- 🎮 Gamer who loves strategy, problem solving & competitive challenges
+- 🧠 Enjoy solving complex problems and building impactful software
+- 🚀 Passionate about startups, innovation & tech exploration
 - 📫 Reach me at: bhanderitirth940@gmail.com
 - 📍 Based in Rajkot, Gujarat, India
 
@@ -52,77 +57,67 @@ I'm an AI Software Engineer and proficient Android & Flutter Developer with expe
 ### 📱 Openly Social Media App
 https://github.com/tirthbhanderi2006/openly
 
-- ✨ Real-time video calling and chat
-- 🔐 Firebase Authentication & Cloud Storage
-- 📝 Profile editing & bookmarking
-- 🌐 Content discovery & sharing
+- Real-time video calling & chat
+- Firebase Authentication & Storage
+- Profile editing & bookmarking
+- Content discovery & sharing
 
-**Tech Stack:** Flutter • Firebase • Firestore • Cloud Storage • Real-time Database
+Tech: Flutter • Firebase • Firestore • Cloud Storage • Realtime Database
 
 ---
 
 ### 🛣️ CivicConnect
 
-- 🔒 Secure authentication
-- 📍 Pothole reporting system
-- 🤖 YOLOv5 AI image analysis
-- 📊 Admin dashboard
-- 🗺️ Interactive map integration
+- Pothole reporting platform
+- YOLOv5 AI severity analysis
+- Admin dashboard
+- Interactive maps
+- Real-time updates
 
-**Tech Stack:** Flutter • Express • Next.js • PostgreSQL • YOLOv5 • Cloudinary
+Tech: Flutter • Express • Next.js • PostgreSQL • YOLOv5 • Cloudinary
 
 ---
 
 ### 🐄 Krushi-Netra
 
-- 📶 Offline cattle breed classification
-- 🐮 Supports 12 Indian breeds
-- 💡 Lightweight for low-end devices
-- 📸 Works with low-quality images
+- Offline cattle breed classifier
+- Supports 12 Indian breeds
+- Lightweight & optimized
+- Works with low-quality images
 
-**Tech Stack:** Android (Java) • TensorFlow • CNN • MobileNet
+Tech: Android (Java) • TensorFlow • CNN • MobileNet
 
 ---
 
 ## 💼 Professional Experience
 
 ### Android Developer Intern @ 9Brainz
-**December 2024 - April 2025 | Rajkot, Gujarat, India**
+**Dec 2024 – Apr 2025 | Rajkot, Gujarat**
 
-- Developed Openly social media application
-- Implemented real-time video & chat
+- Built Openly social media app
+- Implemented real-time chat & video
 - Integrated Firebase services
-- Built profile & engagement features
+- Developed engagement features
 
 ---
 
 ## 🎓 Education
 
-### Bachelor of Technology in AI & ML
-CHARUSAT, Gujarat, India • Expected 2028
+### Bachelor of Technology in Artificial Intelligence & Machine Learning
+CHARUSAT • Expected 2028
 
 ### Diploma in Computer Engineering
-RK University, Gujarat, India • GPA: 9.63
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tirthbhanderi2006&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tirthbhanderi2006&layout=compact&theme=radical&cache_seconds=1800)
+RK University • GPA: 9.63
 
 ---
 
 ## 🤝 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/tirth-bhanderi-345763289/)
-|
-[GitHub](https://github.com/tirthbhanderi2006)
-|
-[Instagram](https://www.instagram.com/tirth_bhanderi_7_/)
-|
-[Email](mailto:bhanderitirth940@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://tirth-portfolio-v2.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirth-bhanderi-345763289/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tirthbhanderi2006)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tirth_bhanderi_7_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanderitirth940@gmail.com)
 
 ---
 
