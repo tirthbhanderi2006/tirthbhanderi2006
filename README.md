@@ -48,7 +48,15 @@ Currently pursuing my Bachelor's in Artificial Intelligence and Machine Learning
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**Concepts:** REST API • Microservices • RAG (LLMs) • Machine Learning • Deep Learning
+---
+
+## 🧠 Concepts
+
+![REST API](https://img.shields.io/badge/REST_API-%2300ADD8.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%23FF6F00.svg?style=for-the-badge&logo=docker&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_LLMs-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-%23FF4B4B.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
