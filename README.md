@@ -17,7 +17,7 @@ Currently pursuing my Bachelor's in Artificial Intelligence and Machine Learning
 - 🎮 Gamer who loves strategy, problem solving & competitive challenges
 - 🧠 Enjoy solving complex problems and building impactful software
 - 🚀 Passionate about startups, innovation & tech exploration
-- 📫 Reach me at: bhanderitirth940@gmail.com
+- 📫 Reach me at: bhanderitirth94@gmail.com
 - 📍 Based in Rajkot, Gujarat, India
 
 ---
